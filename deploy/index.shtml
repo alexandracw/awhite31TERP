@@ -15,26 +15,26 @@
     
     <p><strong>Render Location:</strong> 
         <a href="put here" target="_blank">
-            https://YOUR-APP.onrender.com
+            https://awhite31terp.onrender.com
         </a>
     </p>
     
     <h2>Application Endpoints</h2>
     
     <p><strong>Clearing Database Movies:</strong> 
-        <a href="puthere" target="_blank">
+        <a href="https://awhite31terp.onrender.com/clearCollection" target="_blank">
             Clear Movies
         </a>
     </p>
     
     <p><strong>Inserting Movies:</strong> 
-        <a href="https://YOUR-APP.onrender.com/insertMovies" target="_blank">
+        <a href="https://awhite31terp.onrender.com/insertMovies" target="_blank">
             Insert Movies
         </a>
     </p>
     
     <p><strong>List Movies:</strong> 
-        <a href="https://YOUR-APP.onrender.com/listMovies" target="_blank">
+        <a href="https://awhite31terp.onrender.com/listMovies" target="_blank">
             List Movies
         </a>
     </p>
